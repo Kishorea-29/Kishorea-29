@@ -1,5 +1,5 @@
 # Hi, I'm Kishore A <br><br>
-🎓 B.Sc. Data Science Graduate<br>📚 Currently pursuing M.Sc. Data Science<br><br>💻 Passionate about Data Science, Artificial Intelligence, Machine Learning, and Full Stack Development.<br><br>🚀 I enjoy building real-world projects using Python, React, TypeScript, and Machine Learning.<br><br>🎯 My goal is to become a Data Scientist / AI Engineer.<br><br>🌱 Currently learning Full Stack Development and Advanced Machine Learning.
+🎓 B.Sc. Data Science Graduate<br> 📚 Currently pursuing M.Sc. Data Science<br><br>💻 Passionate about Data Science, Artificial Intelligence, Machine Learning, and Full Stack Development.<br><br>🚀 I enjoy building real-world projects using Python, React, TypeScript, and Machine Learning.<br><br>🎯 My goal is to become a Data Scientist / AI Engineer.<br><br>🌱 Currently learning Full Stack Development and Advanced Machine Learning.
 
 
 ## 🌐 Socials:
